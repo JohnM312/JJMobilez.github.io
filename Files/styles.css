@@ -1,0 +1,18 @@
+body{
+  background: Dark Blue;
+  font-family: Helvetica;
+}
+h1{
+  color: Green
+  text-align: center;
+}
+.assign{
+  display: flex;
+  padding: 10px;
+  margin: 10px;
+  background: Yellow;
+}
+.assign img{
+  width: 200px;
+  padding: 10px;
+}
