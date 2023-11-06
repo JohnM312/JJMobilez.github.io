@@ -6,7 +6,7 @@ h1 {
   color: midnightblue;
   text-align: center;
 }
-a {
+a:hover {
   text-decoration: none;
   color: black;
 }
@@ -22,8 +22,3 @@ a {
   margin: 10px;
   border: 2px dashed skyblue;
 }
-a:hover {
-  text-decoration: none;
-  color: midnightblue;
-}
-
