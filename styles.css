@@ -2,13 +2,13 @@ body {
   background: skyblue;
   font-family: Arial, Helvetica, sans-serif;
 }
-h1 {
-  color: midnightblue;
+h1:hover {
+  color: yellow;
   text-align: center;
 }
 a:hover {
   text-decoration: none;
-  color: white;
+  color: black;
 }
 .assign {
   display: flex;
